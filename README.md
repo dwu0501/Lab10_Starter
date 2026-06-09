@@ -9,3 +9,4 @@ Link [here](https://dwu0501.github.io/Lab10_Starter/)
 ### Members
 - Daniel Wu
 - Alexis Navarrete
+- Waleed Alghaithi
